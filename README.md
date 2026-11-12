@@ -143,14 +143,16 @@ AI Travel Planner for Uttarakhand
 
 ---
 
-# 📊 GitHub Analytics
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+  <img width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=singhniharikaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=singhniharikaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhniharikaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhniharikaa&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -165,14 +167,12 @@ AI Travel Planner for Uttarakhand
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhniharikaa&theme=tokyo-night&hide_border=true"/>
-
+  <img width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=singhniharikaa&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
